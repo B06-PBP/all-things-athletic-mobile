@@ -1,21 +1,3 @@
-# all_things_athletic_mobile
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 # **AllThingsAthletic-Mobile**
 
 ## **1. Daftar Anggota Kelompok**
@@ -71,7 +53,7 @@ Navbar menyediakan kategori olahraga untuk memudahkan pencarian produk terkait.
 - **Delete:** Menghapus produk.  
 
 **Pembagian Kerja:**  
-- **[Nama Anggota]**
+- **Aditya Dharma**
 
 ### **4. Artikel**
 **Fitur:**  
@@ -81,7 +63,7 @@ Navbar menyediakan kategori olahraga untuk memudahkan pencarian produk terkait.
 - **Delete:** Menghapus artikel.  
 
 **Pembagian Kerja:**  
-- **[Nama Anggota]**
+- **Shalya Naura Lionita**
 
 ### **5. My Profile**
 **Fitur:**  
@@ -89,7 +71,7 @@ Navbar menyediakan kategori olahraga untuk memudahkan pencarian produk terkait.
 - CRUD pada review dan rating.  
 
 **Pembagian Kerja:**  
-- **[Nama Anggota]**
+- **Shafa Amira Azka**
 
 ### **6. Search Produk**
 **Deskripsi Fitur:**  
@@ -98,13 +80,21 @@ Fitur pencarian produk berdasarkan nama atau kata kunci.
 **Pembagian Kerja:**  
 - **[Nama Anggota]**
 
-### **7. Review & Rating**
-**Fitur:**  
-- Pengguna dapat menulis review, memberikan rating, serta mengedit atau menghapusnya.  
+### **7. Review**
+**Deskripsi Fitur:**  
+Pengguna dapat menulis, mengedit, atau menghapus ulasan tentang suatu produk.  
 
 **Pembagian Kerja:**  
-- **[Nama Anggota]**
+- **Anindhyaputri Paramitha**
 
+---
+
+### **8. Rating**
+**Deskripsi Fitur:**  
+Pengguna dapat memberikan, mengubah, atau menghapus rating pada suatu produk.  
+
+**Pembagian Kerja:**  
+- **Amirah Rizkita Setiadji**
 ---
 
 ## **4. Peran Pengguna Aplikasi**
