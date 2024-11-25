@@ -87,8 +87,6 @@ Pengguna dapat menulis, mengedit, atau menghapus ulasan tentang suatu produk.
 **Pembagian Kerja:**  
 - **Anindhyaputri Paramitha**
 
----
-
 ### **8. Rating**
 **Deskripsi Fitur:**  
 Pengguna dapat memberikan, mengubah, atau menghapus rating pada suatu produk.  
@@ -114,5 +112,10 @@ Tugas:
 ---
 
 ## **5. Integrasi dengan Web Service**  
+Pengintegrasian web service dan aplikasi web dilakukan dengan cara:
+1. Menggunakan library http untuk menghubungkan aplikasi mobile dengan aplikasi web dengan pengiriman request.
+2. Memanfaatkan library pbp_django_auth untuk mengelola cookie dan juga untuk memastikan tiap request yang dikirim ke server sudah terautentikasi dan terotorisasi.
+3. Membuat model sesuai dengan respons JSON dari web service serta menggunakan QuickType untuk membantu pembuatan models dari app dengan mengubah data JSON menjadi Dart.
+4. Di aplikasi Flutter, menggunakan FutureBuilder untuk menampilkan data melalui FutureBuilder dengan sebelumnya memastikan data telah dikonversi ke model yang sesuai.
 
 ---
