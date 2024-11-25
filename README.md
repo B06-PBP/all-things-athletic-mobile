@@ -55,7 +55,7 @@ Navbar pada aplikasi ini akan menampilkan kategori olahraga secara langsung, mem
 - **Update (U)**: Toko memperbarui informasi produk, termasuk harga dan deskripsi.
 - **Delete (D)**: Toko menghapus produk dari katalog jika tidak lagi dijual.
 
-### 4. **Artikel (fitur: Article)**\
+### 4. **Artikel (fitur: Article)**
 **Pembagian Kerja:**  
 - **Shalya Naura Lionita**
 
