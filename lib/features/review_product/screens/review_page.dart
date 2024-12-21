@@ -24,8 +24,8 @@ class _ReviewPageState extends State<ReviewPage> {
     for (var d in response) {
       if (d != null) {
         var review = Review.fromJson(d);
-        final usernameResponse =
-            await request.get("http://localhost:8000/username/${review.pk}");
+        final usernameResponse = await request
+            .get("http://localhost:8000/username/${review.fields.user}");
         final alatRespone = await request
             .get("http://localhost:8000/alat/${review.fields.alatOlahraga}");
 
